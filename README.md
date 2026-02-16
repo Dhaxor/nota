@@ -116,7 +116,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Links
 
-- [Live Demo](https://mynota.vercel.app)
+- [Live Demo](https://mynota-app.vercel.app)
 - [Report Bug](https://github.com/Dhaxor/mynota/issues)
 - [Request Feature](https://github.com/Dhaxor/mynota/issues)
 
